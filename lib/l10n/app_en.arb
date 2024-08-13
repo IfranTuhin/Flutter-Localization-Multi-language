@@ -1,0 +1,12 @@
+{
+  "homeScreen" : "Home Screen",
+  "aboutScreen" : "About Screen",
+  "settingScreen" : "Setting Screen",
+  "personalInformation" : "Personal Information",
+  "name" : "Name",
+  "email" : "Email",
+  "aboutUs" : "About Us",
+  "settings" : "Settings",
+  "dateOfBirth" : "Date Of Birth",
+  "submitInfo" : "Submit Information"
+}

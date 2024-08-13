@@ -1,0 +1,12 @@
+{
+  "homeScreen" : "হোম স্ক্রীন",
+  "aboutScreen" : "স্ক্রীন সম্পর্কে",
+  "settingScreen" : "সেটিং স্ক্রিন",
+  "personalInformation" : "ব্যক্তিগত তথ্য",
+  "name" : "নাম",
+  "email" : "ইমেইল",
+  "aboutUs" : "আমাদের সম্পর্কে",
+  "settings" : "সেটিং",
+  "dateOfBirth" : "জন্ম তারিখ",
+  "submitInfo" : "তথ্য জমা দিন"
+}

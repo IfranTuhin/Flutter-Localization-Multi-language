@@ -1,0 +1,12 @@
+{
+  "homeScreen" : "الشاشة الرئيسية",
+  "aboutScreen" : "حول الشاشة",
+  "settingScreen" : "إعداد الشاشة",
+  "personalInformation" : "معلومات شخصية",
+  "name" : "اسم",
+  "email" : "بريد إلكتروني",
+  "aboutUs" : "معلومات عنا",
+  "settings" : "إعدادات",
+  "dateOfBirth" : "تاريخ الميلاد",
+  "submitInfo" : "إرسال المعلومات"
+}
